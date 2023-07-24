@@ -55,9 +55,13 @@
     color: black;
 }
 
-h1,h5,h6,.con,.form-label
+h1,h6,.con,.form-label
 {
   color: rgb(245, 153, 6);
+}
+h5
+{
+    color: black;
 }
  
 #listss
