@@ -52,6 +52,7 @@
 .card:hover
 {
   background-color: rgb(245, 153, 6);
+    color: black;
 }
 
 h1,h5,h6,.con,.form-label
